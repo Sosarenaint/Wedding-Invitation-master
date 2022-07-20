@@ -28,7 +28,7 @@ inviting you and your family to elder sister's wedding to be held on **29th Nove
 
 const newCouple = 'Sonali & Gagan';
 
-// Nov 29, 2020
+// Nov 29, 2022
 const weddingDate = new Date(2020, 11, 29);
 
 // Wedding venue: https://goo.gl/maps/5z5xX2hTYzU8VGEJ9
